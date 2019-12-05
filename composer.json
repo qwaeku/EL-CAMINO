@@ -1,0 +1,21 @@
+{
+  "name": "slzb",
+  "description": "Fast and easy template for restaurant.",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Alessandro Riccardi",
+      "email": "alericcardi1996@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc",
+      "Templates\\": "./templates"
+    }
+  }
+}
