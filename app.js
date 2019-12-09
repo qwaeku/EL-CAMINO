@@ -48,7 +48,7 @@ app.use(passport.session());
 app.use(flash());
 
 // Global variables
-app.use(function (req, res, next) {
+app.use(function(req, res, next) {
     res.locals.success_msg = req.flash('success_msg');
     res.locals.error_msg = req.flash('error_msg');
     res.locals.error = req.flash('error');
@@ -77,8 +77,8 @@ app.get("/contact", (req, res) => {
 app.get("/Account", (req, res) => {
     res.render("Account");
 });
-app.get("/Menu", (req, res) => {
-    res.render("Menu");
+app.get("/menu", (req, res) => {
+    res.render("menu");
 });
 app.get("/reservation", (req, res) => {
     res.render("reservation");
