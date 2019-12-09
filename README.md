@@ -1,4 +1,4 @@
-<h1><a href="https://qwaeku.github.io/EL-CAMINO/">RESTAURANT MANAGEMENT SYSTEM</a></h1>
+<h1><a href="https://qwaeku.github.io/EL-CAMINO/">EL-CAMINO</a></h1>
 Restaurant Management System is developed to automate the daily activity of a restaurant. The purpose of this system is to provide a service facility to the restaurant workers and also to the customers 
 
 ## Services provided are:
