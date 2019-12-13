@@ -12,10 +12,11 @@ Restaurant Management System is developed to automate the daily activity of a re
 The main objective builds the system is to provide ordering and reservation service online to the customer. The user needs to register first, then they can access the other part of the site
 
 # Technology Used:
-The languages I used, the libraries and its versions.
+The languages I used, the libraries
 * HTML
 * CSS
 * BOOTSRAP
+* JAVASCRIPT
 
 # Restaurant Billing System:
 <ul>
